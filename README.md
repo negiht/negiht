@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @negiht, a Computer Science student
-- 👀 Interested in computer science, especially developing 
-- 🌱 Currently learning new methods on writing code
-- 💞️ Looking to collaborate with a team that constantly wants to evolve
+-👋 Hi, I’m @negiht (Negi Hoxha) — a current MSc student in Data Science with a solid foundation in Computer Science.
+
+-👀 I’m passionate about exploring algorithms, data structures and building software across multiple languages.
+
+-🌱 On my GitHub you’ll find projects spanning booking systems, card games and distributed applications using C, C++, Java, C#, SQL and more.
+
+-💞️ I love collaborating on coding projects and continuously improving my craft. Feel free to explore my repositories and reach out!
 
 
 <!---
